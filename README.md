@@ -1,4 +1,4 @@
-# Django-Ecommerce
+# Ecommerce
 
 # Installation
 
